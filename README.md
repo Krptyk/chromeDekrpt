@@ -4,8 +4,8 @@ A utility to decrypt and retrieve encrypted data (either cookies or login creden
 
 For the full deatiled write up and step by step process:
 
-<a href="https://krptyk.com/2023/10/15/decrypting-chrome-credentials/">Decrypting Chrome Credentials</a>
-<a href="https://krptyk.com/2023/10/28/decrypting-chrome-cookies/">Decrypting Chrome Cookies</a>
+<h3><a href="https://krptyk.com/2023/10/15/decrypting-chrome-credentials/">Decrypting Chrome Credentials</a></h3>
+<h3><a href="https://krptyk.com/2023/10/28/decrypting-chrome-cookies/">Decrypting Chrome Cookies</a></h3>
 
 Pre-requisites
 
