@@ -8,13 +8,13 @@ Pre-requisites
 
 How to Use
 
-    First, you need to extract the necessary Chrome SQLite databases and the encryption key for decryption.
+First, you need to extract the necessary Chrome SQLite databases and the encryption key for decryption.
         For cookies: Retrieve the Cookies file.
         For login credentials: Retrieve the Login Data file.
 
-    These files are typically located at:
+These files are typically located at:
 
-C:\Users\%USERNAME%\AppData\Local\Google\Chrome\User Data\Default
+    C:\Users\%USERNAME%\AppData\Local\Google\Chrome\User Data\Default
 
 The master encryption key is required to decrypt the data. This key can be found within Chrome's User Data directory in a file named Local State. You will need to extract the key value from this file.
 
