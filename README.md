@@ -30,11 +30,11 @@ Run the tool using the following command:
 
 For cookies:
 
-    chromeDekrypt.py -f path_to_cookies_db -k path_to_master_key -t cookies
+    chromeDekrpt.py -f path_to_cookies_db -k path_to_master_key -t cookies
 
 For login credentials:
 
-    chromeDekrypt.py -f path_to_login_data_db -k path_to_master_key -t login
+    chromeDekrpt.py -f path_to_login_data_db -k path_to_master_key -t login
 
 Command Line Arguments:
 
