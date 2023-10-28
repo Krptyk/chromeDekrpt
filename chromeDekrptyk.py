@@ -1,3 +1,22 @@
+#!/usr/bin/env python3
+
+"""
+Filename: chromeDekrptyk.py
+Author: Krptyk
+Last Updated: 28/10/2023
+Description: A utility to decrypt Chrome encrypted data 
+             (either cookies or login credentials) from Google Chrome's SQLite databases.
+Usage:
+    For cookies:
+    ./script_name.py -f path_to_cookies_db -k path_to_master_key -t cookies
+
+    For login credentials:
+    ./script_name.py -f path_to_login_data_db -k path_to_master_key -t login
+Disclaimer:
+    Use this script responsibly and ethically. Always seek appropriate permissions
+    and abide by all applicable laws and guidelines.
+"""
+
 import os
 import sqlite3
 import shutil
