@@ -3,8 +3,10 @@
 A utility to decrypt and retrieve encrypted data (either cookies or login credentials) from Google Chrome's SQLite databases. This tool can be helpful for various legitimate purposes, like incident response, forensics, or data recovery.
 
 For the full deatiled write up and step by step process:
-<h3> https://krptyk.com/2023/10/15/decrypting-chrome-credentials </h3>
-<h3> https://krptyk.com/2023/10/28/decrypting-chrome-cookies </h3>
+
+<a href="https://krptyk.com/2023/10/15/decrypting-chrome-credentials/">Decrypting Chrome Credentials</a>
+<a href="https://krptyk.com/2023/10/28/decrypting-chrome-cookies/">Decrypting Chrome Cookies</a>
+
 Pre-requisites
 
     Python 3.x
