@@ -1,6 +1,8 @@
 <h1> Chrome Data Decryptor </h1>
 
-A utility to decrypt and retrieve encrypted data (either cookies or login credentials) from Google Chrome's SQLite databases. This tool can be helpful for various legitimate purposes, like incident response, forensics, or data recovery.
+A utility to decrypt and retrieve encrypted data (either cookies or login credentials) from Chromium SQLite databases. 
+
+This tool can also be helpful for various legitimate purposes, like incident response, forensics, or data recovery.
 
 For the full deatiled write up and step by step process:
 
